@@ -1,2 +1,7 @@
-# Customer--Flight-Satisfaction-Pasenger
-We are going to predict customer satisfaction while travelling in a flight
+
+***Test Project for learning*** 
+Data set contains **4525** rows and **4555** columns
+
+|column| description |
+|--|--|
+| sr no | date| name| city
